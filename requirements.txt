@@ -1,0 +1,11 @@
+pandas
+numpy
+pygwalker
+streamlit
+openai
+matplotlib
+databutton
+extra-streamlit-components
+streamlit-option-menu
+pillow
+argparse
